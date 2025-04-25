@@ -1,8 +1,4 @@
-/* 
- SENA KOTAN
- C2221241001 
 
- */
 import java.util.Scanner;
 
 public class UzayKesifAraci {
