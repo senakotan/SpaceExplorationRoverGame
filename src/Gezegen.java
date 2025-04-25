@@ -1,8 +1,4 @@
-/* 
- SENA KOTAN
- C2221241001 
 
- */
 public abstract class Gezegen extends Cisim {
 
     private int xKonumu;
