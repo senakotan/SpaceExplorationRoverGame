@@ -1,8 +1,4 @@
-/* 
- SENA KOTAN
- C2221241001 
 
- */
 // Tüm kaynak türleri için ortak özellikleri tanımlayan üst sınıf tanımlanır.
 public class Kaynak {
 
