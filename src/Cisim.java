@@ -1,7 +1,4 @@
-/* 
- SENA KOTAN
- C2221241001 
- */
+
 
 //Gezegen ve Karadelik sınıfının kalıtım alacağı Cisim sınıfı oluşturulur.
 public class Cisim {
