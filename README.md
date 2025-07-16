@@ -12,7 +12,6 @@ In this game, the player pilots a rover on different planets, each with unique c
 ### 1. *UzayKesifAraci (SpaceExplorationRover)*  
 This class represents the rover, the central character of the game. It manages key attributes like:
 
-- *Health:* The rover's remaining durability.
 - *Fuel:* How much fuel the rover has for exploration.
 - *Upgrades:* The ability to enhance the rover's performance with collected resources.
 - *Movement:* The rover's actions when navigating between planets and avoiding obstacles.
