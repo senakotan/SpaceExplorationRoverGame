@@ -58,10 +58,6 @@ The gameplay involves exploring different planets, collecting resources, and man
 3. *Upgrades and Repairs:* Collected resources can be used to repair and upgrade the rover to better handle increasingly difficult missions and encounters.
 4. *Avoiding Hazards:* The rover must avoid black holes and other hazards, like asteroids, to stay alive.
 
-## Technologies Used
-
-- *Java:* The core programming language for developing the game.
-- *Java Swing:* Used for creating the graphical interface (GUI) of the game.
 
 ## How to Run the Game
 
