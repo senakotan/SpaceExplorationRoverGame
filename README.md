@@ -1,7 +1,7 @@
 
-# 🚀 Space Exploration Rover Game
+# 🚀 Space Exploration Game
 
-The *Space Exploration Rover* game is an exciting space-themed adventure where players control a rover tasked with exploring planets, gathering resources, and avoiding cosmic hazards like black holes. Developed using *Object-Oriented Programming (OOP)* principles, the game consists of several key classes that each play a critical role in the gameplay mechanics and progression.
+The *Space Exploration* game is an exciting space-themed adventure where players control a rover tasked with exploring planets, gathering resources, and avoiding cosmic hazards like black holes. Developed using *Object-Oriented Programming (OOP)* principles, the game consists of several key classes that each play a critical role in the gameplay mechanics and progression.
 
 ## Overview
 
