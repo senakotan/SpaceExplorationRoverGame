@@ -40,7 +40,7 @@ public class Karadelik extends Cisim {
 
     public void karadelikEtkisi() {
         Random random = new Random();
-        boolean etkisi = random.nextBoolean(); // İki ihtimal: true veya false
+        boolean etkisi = random.nextBoolean(); // İki ihtimal bulunur: true veya false
 
         // Random oluşan boolean değer True ise
         if (etkisi) {
@@ -88,3 +88,4 @@ public class Karadelik extends Cisim {
 
     }
 }
+
