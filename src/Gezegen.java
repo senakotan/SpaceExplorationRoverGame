@@ -127,3 +127,4 @@ class YaniciGezegen extends Gezegen {
         System.out.println("!DİKKAT: Yanıcı atmosfer nedeniyle iniş daha maliyetlidir!");
     }
 }
+
